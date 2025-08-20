@@ -35,14 +35,14 @@ const Waveform = ({data, title}: {data: number[], title: string}) => {
             className='block max-h-[300px] max-w-full rounded border border-stone-200'
           >
 
-            // center line
+            {/* center line*/}
             <path
               d={`M 0 ${centerY} H ${width}`}
               stroke="#e7e5e4"
               strokeWidth="1"
             />
 
-            // Waveform
+            {/*Waveform*/}
             <path
               d={pathData}
               fill='none'
