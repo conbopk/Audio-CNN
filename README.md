@@ -20,21 +20,21 @@ Afterward, I'll build a dashboard using Next.js and React to upload and visualiz
 The project uses Python, PyTorch, Next.js, React, and Tailwind, based on the T3 Stack.
 
 ## Feature
-- Deep Audio CNN for sound classification
-- ResNet-style architecture with residual blocks
-- Mel Spectrogram audio-to-image conversion
-- Data augmentation with Mixup & Time/Frequency Masking
-- Serverless GPU inference with Modal
-- Interactive Next.js & React dashboard
-- Visualization of internal CNN feature maps
-- Real-time audio classification with confidence scores
-- Waveform and Spectrogram visualization
-- FastAPI inference endpoint
-- Optimized training with AdamW & OneCycleLR scheduler
-- TensorBoard integration for training analysis
-- Batch Normalization for stable & fast training
-- Modern UI with Tailwind CSS & Shadcn UI
-- Pydantic data validation for robust API request
+- 🧠 Deep Audio CNN for sound classification
+- 🧱 ResNet-style architecture with residual blocks
+- 🎼 Mel Spectrogram audio-to-image conversion
+- 🎛️ Data augmentation with Mixup & Time/Frequency Masking
+- ⚡ Serverless GPU inference with Modal
+- 📊 Interactive Next.js & React dashboard
+- 👁️ Visualization of internal CNN feature maps
+- 📈 Real-time audio classification with confidence scores
+- 🌊 Waveform and Spectrogram visualization
+- 🚀 FastAPI inference endpoint
+- ⚙️ Optimized training with AdamW & OneCycleLR scheduler
+- 📈 TensorBoard integration for training analysis
+- 🛡️ Batch Normalization for stable & fast training
+- 🎨 Modern UI with Tailwind CSS & Shadcn UI
+- ✅ Pydantic data validation for robust API request
 
 ## Setup
 Follow these steps to install and set up the project.
